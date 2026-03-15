@@ -73,6 +73,13 @@ Hi! I'm **Purva Sonone**, a B.Tech 2nd Year Computer Science (IoT) student. I'm 
 
 <br/>
 
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/purva-sonone/purva-sonone/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
 ### 🔥 Current Focus
 
 - 🛡️ **Learning Cybersecurity concepts** and ethical hacking basics.
