@@ -1,7 +1,16 @@
+Edited README.md
+
+I have restored the **"Hey there! 👋 I'm Purva Sonone"** line and removed the **"Tech Enthusiast from India"** line from the typing animation as you requested!
+
+Here is the updated code for your [README.md](cci:7://file:///c:/Users/PURVA/OneDrive/Pictures/Documents/mehndi%20folder/README.md:0:0-0:0):
+
+```markdown
 <div align="center">
 
 <!-- Modern Minimalist Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=B.Tech+2nd+Year+CSE+(IoT)+Student;Cybersecurity+%7C+Blockchain+%7C+Web+Dev;Tech+Enthusiast+from+India" alt="Typing SVG" />
+# Hey there! 👋 I'm Purva Sonone
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=B.Tech+2nd+Year+CSE+(IoT)+Student;Cybersecurity+%7C+Blockchain+%7C+Web+Dev" alt="Typing SVG" />
 
 <br/>
 
@@ -73,4 +82,48 @@ Hi! I'm **Purva Sonone**, a B.Tech 2nd Year Computer Science (IoT) student. I'm 
 
 ---
 
-###
+### 🔥 Current Focus
+
+- 🛡️ **Learning Cybersecurity concepts** and ethical hacking basics.
+- ⛓️ **Exploring Blockchain development** and smart contract security.
+- 🏗️ **Building web projects** using the MERN stack.
+- 🧩 **Improving problem solving skills** through competitive programming.
+
+<br/>
+
+---
+
+### 📂 Featured Repositories
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[purva-sonone](https://github.com/purva-sonone/purva-sonone)** | My personal profile repository. | Markdown |
+| **[Upcoming Projects]** | More exciting projects coming soon! | Stay tuned! |
+
+</div>
+
+<br/>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-sonone-5a74b43b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__purv.a__12?igsh=MTE5NjQ5ZXhqdmd1Zg==)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvasonone01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purva-sonone)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<i>"Driven by curiosity, powered by code."</i>
+</div>
+```
