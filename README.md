@@ -1,10 +1,3 @@
-Edited README.md
-
-I have restored the **"Hey there! 👋 I'm Purva Sonone"** line and removed the **"Tech Enthusiast from India"** line from the typing animation as you requested!
-
-Here is the updated code for your [README.md](cci:7://file:///c:/Users/PURVA/OneDrive/Pictures/Documents/mehndi%20folder/README.md:0:0-0:0):
-
-```markdown
 <div align="center">
 
 <!-- Modern Minimalist Header -->
@@ -80,8 +73,6 @@ Hi! I'm **Purva Sonone**, a B.Tech 2nd Year Computer Science (IoT) student. I'm 
 
 <br/>
 
----
-
 ### 🔥 Current Focus
 
 - 🛡️ **Learning Cybersecurity concepts** and ethical hacking basics.
@@ -126,4 +117,3 @@ Hi! I'm **Purva Sonone**, a B.Tech 2nd Year Computer Science (IoT) student. I'm 
 <div align="center">
 <i>"Driven by curiosity, powered by code."</i>
 </div>
-```
